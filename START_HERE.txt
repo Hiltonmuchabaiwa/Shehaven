@@ -1,0 +1,17 @@
+SHEHaven Bedding Stock Management System
+
+HOW TO RUN
+1. Extract the ZIP file.
+2. Open this folder.
+3. Double-click run_app.bat.
+
+PYCHARM
+Open RUN_SHEHAVEN_FROM_PYCHARM.py and press Run.
+
+LOGIN
+Username: admin
+Password: admin123
+
+NEW SECTIONS
+- Add Stock: add/restock products into the system.
+- Sales: record sold stock and automatically reduce available quantity.
